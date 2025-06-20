@@ -49,3 +49,7 @@ This project also taught me how to interpret and explain model outputs clearly. 
 The Decision Tree Implementation project was a valuable part of my internship learning experience. It provided an end-to-end view of machine learning development — from data loading to model training, evaluation, and visualization. The skills and concepts I learned here will be useful for future machine learning tasks and academic projects.
 
 This GitHub repository contains the complete implementation, including the Python code, instructions to run the project, and a basic project structure for understanding and reuse.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/caf00ebb-1de5-4494-8ede-0972d41b26fb)
